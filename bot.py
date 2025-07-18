@@ -1,4 +1,5 @@
-
+import telegram
+print("PTB version:", telegram.__version__)
 from keep_alive import keep_alive
 import json
 import os
