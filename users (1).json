@@ -1,0 +1,49 @@
+{
+  "6806039390": {
+    "balance": 18000,
+    "referrals": [
+      "7044847024",
+      "7850999454",
+      "7853947480",
+      "7570463653",
+      "7526755660",
+      "7387582679"
+    ],
+    "invited_by": null
+  },
+  "7044847024": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  },
+  "7850999454": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  },
+  "7853947480": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  },
+  "6407569077": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  },
+  "7570463653": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  },
+  "7526755660": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  },
+  "7387582679": {
+    "balance": 0,
+    "referrals": [],
+    "invited_by": null
+  }
+}
